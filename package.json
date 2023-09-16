@@ -1,0 +1,19 @@
+{
+  "name": "node.js-svg-logo-generator",
+  "version": "1.0.0",
+  "description": "```md AS a freelance web developer I WANT to generate a simple logo for my projects SO THAT I don't have to pay a graphic designer ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.11",
+    "svg.js": "^2.7.1"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
